@@ -1,6 +1,4 @@
-# Main Projects
+# Main Projects (Raw / Notes form)
 Projects with real world use / Display beyond simple python syntax
 
-Main branch holds files without notes, for anyone to use
-
-Raw File branch holds files & code with notes, for learning and practice use
+This branch holds the files I worked with, as I tend to add notes to help my understanding
