@@ -1,4 +1,4 @@
-# MainProjects
+# Main Projects
 Projects with real world use / Display beyond simple python syntax
 
 Main branch holds files without notes, for anyone to use
